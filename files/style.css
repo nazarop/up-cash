@@ -1,0 +1,5 @@
+body{
+    background: url(/files/tools.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+}
